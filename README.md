@@ -27,12 +27,13 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,angular,php,js,ts,dart&perline=8" alt="Technologies" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker&perline=8" alt="Tools" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=laravel,flutter,angular,php,dart,nodejs,vuejs,vuetify,pinia,electron,javascript,typescript,jquery,vite,regex,bootstrap,expressjs,gradle,java,kotlin,figma,html&theme=dark&perline=10" alt="Technologies" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker&perline=8" alt="Tools" /> </div>
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readmeapp.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ryuhiro&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
