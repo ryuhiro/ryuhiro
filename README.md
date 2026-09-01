@@ -10,8 +10,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Chief+Technology+Officer+%7C+Software+Architect;Building+scalable+systems+%26+products;Turning+ideas+into+production-ready+software"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=true&lines=I'm+a+Chief+Technology+Officer+focused+on+building+scalable+products;Designing+reliable+systems+%26+turning+ideas+into+production-ready+software;Building+products+%26+developer-focused+solutions;Full-stack+%26+cross-platform+development;Cloud%2C+DevOps+%26+infrastructure;Always+learning+%26+experimenting+with+new+technologies"
+    alt="About Me"
   />
 </p>
 
