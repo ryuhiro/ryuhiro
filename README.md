@@ -27,16 +27,12 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=Laravel,Lumen,Vue,Flutter,Ionic,Angular,PHP,JavaScript,TypeScript,Dart&perline=8"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=Git,GitHub,AWS,Azure,Docker&perline=8"/>
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,angular,php,js,ts,dart&perline=8" alt="Technologies" /> <br/> <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker&perline=8" alt="Tools" /> </div>
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readmeapp.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ryuhiro&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
@@ -55,7 +51,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryuhiro&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.kittinanx.com/?username=ryuhiro&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Profile Trophy"/>
 </div>
 
 ## 📈 Activity Graph
