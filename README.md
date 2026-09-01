@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn&fontAlignY=38&fontAlign=50" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Ryuhiro Yagami+👋;I'm+a+Chief Technology Officer;Building things on the internet" alt="Typing SVG"/>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there%21+I'm+Ryuhiro+Yagami+%F0%9F%91%8B;Chief+Technology+Officer+%7C+Builder;Building+things+on+the+internet+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 </div>
 
