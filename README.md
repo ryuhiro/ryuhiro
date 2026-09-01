@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Chief%20Technology%20Officer%3BBuilding%20things%20on%20the%20internet%3BBuilding%20production%20web%20%26%20mobile%20applications..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Chief%20Technology%20Officer%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,17 +18,18 @@
 <p align="center">
     
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryuhiro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-galih-praditya-473b3458)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryuhiroyagami/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@nagato_san)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-galih-praditya-473b3458/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/ryuhiroyagami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ryuhiro)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uzumaki.pain/)
 </p>
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=PHP,JavaScript,TypeScript,Python,Dart,Laravel,Lumen,Vue,Angular,Node.js,Flutter,Ionic&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=Laravel,Lumen,Vue,Flutter,Ionic,Angular,PHP,JavaScript,TypeScript,Dart&perline=8"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=Git,Docker,AWS,Azure,Google&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=Git,GitHub,AWS,Azure,Docker&perline=8"/>
 </div>
 
 ## 📊 My GitHub Stats
