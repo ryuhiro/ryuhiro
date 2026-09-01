@@ -32,7 +32,7 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ryuhiro&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
 
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ryuhiro&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
@@ -40,19 +40,13 @@
 ## 💡 Top Languages
 
 <div align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ryuhiro&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryuhiro&layout=donut&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ryuhiro&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.kittinanx.com/?username=ryuhiro&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Profile Trophy"/>
 </div>
 
 ## 📈 Activity Graph
@@ -67,10 +61,10 @@
 
 <div align="center">
   <a href="https://github.com/ryuhiro/ryuhiro">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=ryuhiro&repo=ryuhiro&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ryuhiro&repo=ryuhiro&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/ryuhiro/choices-vue3">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=ryuhiro&repo=choices-vue3&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ryuhiro&repo=choices-vue3&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
